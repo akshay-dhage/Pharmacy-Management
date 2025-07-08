@@ -21,11 +21,11 @@ This is a **PHP + MySQL web application** designed to manage the daily operation
 ## 📁 Project Structure
 
 Pharmacy-Management/
-├── config/         # Database connection files
-├── public/         # Frontend PHP/HTML pages
-├── assets/         # CSS, JS, images
-├── sql/            # Database schema or sample data
-└── README.md       # Project documentation
+├── config/          # Database connection files         
+├── public/          # Frontend PHP/HTML pages          
+├── assets/          # CSS, JS, images                    
+├── sql/             # Database schema or sample data                         
+└── README.md        # Project documentation                    
 
 ## 🛠️ How to Run
 
@@ -33,9 +33,7 @@ Pharmacy-Management/
 
 2️⃣ Place the project in your `htdocs` folder:
 ```
-
 C:\xampp\htdocs\my working\Pharmacy-Management
-
 ````
 
 3️⃣ Start Apache and MySQL using the XAMPP Control Panel.
@@ -69,5 +67,5 @@ Made with ❤️ by **Akshay Dhage**
 🌐 [LinkedIn](https://www.linkedin.com/in/akshay-dhage82)
 
 ## 📸 Screenshots
-*(Add your app screenshots here)*
+
 
